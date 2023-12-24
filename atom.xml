@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://torlan1024.github.io/</id>
+    <title>Torlan</title>
+    <updated>2023-12-24T19:56:03.411Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://torlan1024.github.io/"/>
+    <link rel="self" href="https://torlan1024.github.io/atom.xml"/>
+    <subtitle>Hi, I&apos;m Shangtao Li, a ME undergraduate.</subtitle>
+    <logo>https://torlan1024.github.io/images/avatar.png</logo>
+    <icon>https://torlan1024.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Torlan</rights>
+    <entry>
+        <title type="html"><![CDATA[Research: Optimal designs analysis for the Spinning-enabled wireless amphibious origami millirobot]]></title>
+        <id>https://torlan1024.github.io/post/research-optimal-designs-analysis-for-the-spinning-enabled-wireless-amphibious-origami-millirobot/</id>
+        <link href="https://torlan1024.github.io/post/research-optimal-designs-analysis-for-the-spinning-enabled-wireless-amphibious-origami-millirobot/">
+        </link>
+        <updated>2023-12-24T03:29:49.000Z</updated>
+        <content type="html"><![CDATA[<p>Not published yet, still working on it</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Research: Ankle Manipulator of Human Assist in MSC lab]]></title>
+        <id>https://torlan1024.github.io/post/research-ankle-manipulator-of-human-assist-in-msc-lab/</id>
+        <link href="https://torlan1024.github.io/post/research-ankle-manipulator-of-human-assist-in-msc-lab/">
+        </link>
+        <updated>2023-12-20T22:50:14.000Z</updated>
+        <content type="html"><![CDATA[<p>Not published yet, still working on it</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project: Upgrade design of Heavest Machine]]></title>
+        <id>https://torlan1024.github.io/post/project-upgrade-design-of-heavest-machine/</id>
+        <link href="https://torlan1024.github.io/post/project-upgrade-design-of-heavest-machine/">
+        </link>
+        <updated>2023-10-19T00:15:50.000Z</updated>
+        <content type="html"><![CDATA[<p>hi,</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project: Pneumatic Gripper Adapted Heavest Machine]]></title>
+        <id>https://torlan1024.github.io/post/project-pneumatic-gripper-adapted-heavest-machine/</id>
+        <link href="https://torlan1024.github.io/post/project-pneumatic-gripper-adapted-heavest-machine/">
+        </link>
+        <updated>2023-09-01T00:11:49.000Z</updated>
+        <content type="html"><![CDATA[<p>hi,</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project: Design of Remotely Operated Vehicle Prepared For MATE ROV 2023]]></title>
+        <id>https://torlan1024.github.io/post/rov/</id>
+        <link href="https://torlan1024.github.io/post/rov/">
+        </link>
+        <updated>2023-04-01T18:53:47.000Z</updated>
+        <content type="html"><![CDATA[<p>hi, i design this ROV for the mate competition.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project: Design For Robomaster ]]></title>
+        <id>https://torlan1024.github.io/post/project-design-for-robomaster/</id>
+        <link href="https://torlan1024.github.io/post/project-design-for-robomaster/">
+        </link>
+        <updated>2022-12-22T22:57:49.000Z</updated>
+        <content type="html"><![CDATA[<p>hi</p>
+]]></content>
+    </entry>
+</feed>
